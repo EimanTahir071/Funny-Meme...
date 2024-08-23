@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+  }
+  
+  .content {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: rgb(192, 182, 182);
+    font-family: "Matemasie Static";
+    text-align: center;
+  }
+  
+  .video-container {
+    margin-top: 100px;
+   text-align: center;
+    border: 5px ;
+    width: 100%;
+    
+  }
